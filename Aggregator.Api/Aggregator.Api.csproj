@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aggregator.Core\Aggregator.Core.csproj" />
+    <ProjectReference Include="..\Aggregator.Connectors\Aggregator.Connectors.csproj" />
+    <ProjectReference Include="..\Aggregator.Infrastructure\Aggregator.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Http.Polly" Version="9.0.9" />
+    <PackageReference Include="Polly" Version="8.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.4" />
+  </ItemGroup>
+
+  <!--JWT Bearer-->
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.*" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.*" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>28f92b28-6069-4dce-a8ea-6e028d30e0ad</UserSecretsId>
+  </PropertyGroup>
+
+</Project>

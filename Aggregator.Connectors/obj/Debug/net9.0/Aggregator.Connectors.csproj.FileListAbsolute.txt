@@ -1,0 +1,17 @@
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\bin\Debug\net9.0\Aggregator.Connectors.deps.json
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\bin\Debug\net9.0\Aggregator.Connectors.dll
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\bin\Debug\net9.0\Aggregator.Connectors.pdb
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\bin\Debug\net9.0\Aggregator.Core.dll
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\bin\Debug\net9.0\Aggregator.Infrastructure.dll
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\bin\Debug\net9.0\Aggregator.Core.pdb
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\bin\Debug\net9.0\Aggregator.Infrastructure.pdb
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\Aggregator.Connectors.csproj.AssemblyReference.cache
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\Aggregator.Connectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\Aggregator.Connectors.AssemblyInfoInputs.cache
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\Aggregator.Connectors.AssemblyInfo.cs
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\Aggregator.Connectors.csproj.CoreCompileInputs.cache
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\Aggregat.4AE0D548.Up2Date
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\Aggregator.Connectors.dll
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\refint\Aggregator.Connectors.dll
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\Aggregator.Connectors.pdb
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Connectors\obj\Debug\net9.0\ref\Aggregator.Connectors.dll

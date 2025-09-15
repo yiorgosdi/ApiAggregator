@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycbtfxkfifU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yiorg\\source\\repos\\ApiAggregator\\Aggregator.Connectors\\Aggregator.Connectors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.9\\microsoft.extensions.caching.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.9\\microsoft.extensions.caching.memory.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.9\\microsoft.extensions.configuration.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.9\\microsoft.extensions.configuration.binder.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.9\\microsoft.extensions.dependencyinjection.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.diagnostics\\9.0.9\\microsoft.extensions.diagnostics.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.9\\microsoft.extensions.diagnostics.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.http\\9.0.9\\microsoft.extensions.http.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.logging\\9.0.9\\microsoft.extensions.logging.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.9\\microsoft.extensions.logging.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.options\\9.0.9\\microsoft.extensions.options.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.9\\microsoft.extensions.options.configurationextensions.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\polly\\8.6.3\\polly.8.6.3.nupkg.sha512",
+    "C:\\Users\\yiorg\\.nuget\\packages\\polly.core\\8.6.3\\polly.core.8.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

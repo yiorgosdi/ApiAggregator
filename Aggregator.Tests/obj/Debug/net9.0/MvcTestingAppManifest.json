@@ -1,0 +1,6 @@
+{
+  "Aggregator.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\yiorg\\source\\repos\\ApiAggregator\\Aggregator.Api",
+  "Aggregator.Connectors, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\yiorg\\source\\repos\\ApiAggregator\\Aggregator.Connectors",
+  "Aggregator.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\yiorg\\source\\repos\\ApiAggregator\\Aggregator.Core",
+  "Aggregator.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\yiorg\\source\\repos\\ApiAggregator\\Aggregator.Infrastructure"
+}

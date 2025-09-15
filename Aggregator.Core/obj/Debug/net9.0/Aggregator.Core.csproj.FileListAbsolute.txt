@@ -1,0 +1,11 @@
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\bin\Debug\net9.0\Aggregator.Core.deps.json
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\bin\Debug\net9.0\Aggregator.Core.dll
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\bin\Debug\net9.0\Aggregator.Core.pdb
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\obj\Debug\net9.0\Aggregator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\obj\Debug\net9.0\Aggregator.Core.AssemblyInfoInputs.cache
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\obj\Debug\net9.0\Aggregator.Core.AssemblyInfo.cs
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\obj\Debug\net9.0\Aggregator.Core.csproj.CoreCompileInputs.cache
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\obj\Debug\net9.0\Aggregator.Core.dll
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\obj\Debug\net9.0\refint\Aggregator.Core.dll
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\obj\Debug\net9.0\Aggregator.Core.pdb
+C:\Users\yiorg\source\repos\ApiAggregator\Aggregator.Core\obj\Debug\net9.0\ref\Aggregator.Core.dll
